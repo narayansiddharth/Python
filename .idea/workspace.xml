@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670e4772-9e65-45d0-a4a2-186f1d4ba8ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/2-DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/StringOperations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/1-FirstNumpyProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/1-FirstNumpyProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/2-NumpySizeVsListSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/2-NumpySizeVsListSize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/3-ComputationTimeByListVsNumpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/3-ComputationTimeByListVsNumpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/4-NumpyOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/4-NumpyOperations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/5-numpySlicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/5-numpySlicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/7-numpyArrayArithematicOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/7-numpyArrayArithematicOperation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/1-HelloWorld.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,93 +13,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-923170510">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="FirstNumpyProgram" value="2" />
-          <entry key="py" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="FirstNumpyProgram" value="104" />
-          <entry key="dummy" value="36" />
-          <entry key="py" value="1337" />
-          <entry key="txt" value="30" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="66" />
-          <entry key="Python" value="1441" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-3-BasicObjectTypes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/2-DataTypes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="80" lean-forward="true" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Numpy/7-numpyArrayArithematicOperation.py">
+        <entry file="file://$PROJECT_DIR$/Basics/StringOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/2-NumpySizeVsListSize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/3-ComputationTimeByListVsNumpy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/1-FirstNumpyProgram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/4-NumpyOperations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="136">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -118,11 +51,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>false</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Siddharth Narayan Rath &lt;siddharth.rath@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -130,15 +77,39 @@
         <option value="$PROJECT_DIR$/Basics/HelloWorld.py" />
         <option value="$PROJECT_DIR$/Basics/DataTypes.py" />
         <option value="$PROJECT_DIR$/Basics/ObjectTypes.py" />
-        <option value="$PROJECT_DIR$/Numpy/FirstNumpyProgram" />
-        <option value="$PROJECT_DIR$/Numpy/NumpySizeVsListSize.py" />
-        <option value="$PROJECT_DIR$/Numpy/ComputationTimeByListVsNumpy.py" />
-        <option value="$PROJECT_DIR$/Numpy/NumpyOperations.py" />
-        <option value="$PROJECT_DIR$/Numpy/numpySlicing.py" />
-        <option value="$PROJECT_DIR$/Numpy/numpyLinespace.py" />
-        <option value="$PROJECT_DIR$/Numpy/6-numpyLinespace.py" />
-        <option value="$PROJECT_DIR$/Numpy/7-numpyArraySum.py" />
-        <option value="$PROJECT_DIR$/Numpy/7-numpyArrayArithematicOperation.py" />
+        <option value="$PROJECT_DIR$/Basics/ListOperations.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/Correctidentation.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/IncorrectIndentation.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-4-Comments.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-5-MultilineStatement.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-6-MultiStatement.py" />
+        <option value="$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-7-ArthimeticOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-8-CompariionRationalOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-9-AignmentOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-10-Bitwise.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-11-LogicalOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-12-MemberhipOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-14-ControlStructure_If.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-15-ControlStructure_If_Else.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-16-ControlStructure_Nested_If_Else.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-17-ControlStructure_For_Loop.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-18-ControlStructure_While.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-19-ControlStructure_While_Else.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-20-AccessingList.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-21-AddingNewValuesToList.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-24-BasicListOperations.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-25-CreateTupple.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-26-AccessingTupple.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-27-DeletingTuple.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-22-UpdatingExistingList.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-23-DeletingListElement.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-6-MultiStatement.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-13-IdentityOperator.py" />
+        <option value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-28-BasicOperationTuple.py" />
+        <option value="$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-28-BasicOperationTuple.py" />
+        <option value="$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-3-BasicObjectTypes.py" />
+        <option value="$PROJECT_DIR$/Basics/2-DataTypes.py" />
+        <option value="$PROJECT_DIR$/Basics/StringOperations.py" />
       </list>
     </option>
   </component>
@@ -153,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,11 +137,16 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\Python" />
+      <recent name="C:\Git\Python\Basics\Mastering Machine Learning with Python in Six Steps\Chapter1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,8 +160,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7-numpyArrayArithematicOperation">
-    <configuration name="6-numpyLinespace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.StringOperations">
+    <configuration name="1-13-IdentityOperator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +169,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy/6-numpyLinespace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-13-IdentityOperator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1-28-BasicOperationTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-28-BasicOperationTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2-DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/2-DataTypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,48 +245,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-numpyArraySum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Numpy\7-numpyArrayArithematicOperation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NumpyOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Numpy\4-NumpyOperations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ObjectTypes" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,7 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/ObjectTypes.py" />
+      <option name="SCRIPT_NAME" value="C:\Git\Python\Basics\Mastering Machine Learning with Python in Six Steps\Chapter1\1-3-BasicObjectTypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numpySlicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python\Numpy\5-numpySlicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/StringOperations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,21 +287,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.ObjectTypes" />
-      <item itemvalue="Python.NumpyOperations" />
-      <item itemvalue="Python.numpySlicing" />
-      <item itemvalue="Python.6-numpyLinespace" />
-      <item itemvalue="Python.7-numpyArraySum" />
-      <item itemvalue="Python.7-numpyArrayArithematicOperation" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StringOperations" />
+        <item itemvalue="Python.2-DataTypes" />
         <item itemvalue="Python.7-numpyArrayArithematicOperation" />
-        <item itemvalue="Python.7-numpyArraySum" />
-        <item itemvalue="Python.6-numpyLinespace" />
-        <item itemvalue="Python.numpySlicing" />
-        <item itemvalue="Python.NumpyOperations" />
+        <item itemvalue="Python.1-28-BasicOperationTuple" />
+        <item itemvalue="Python.1-13-IdentityOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -339,125 +308,342 @@
       <option name="presentableId" value="Default" />
       <updated>1539535669412</updated>
     </task>
-    <task id="LOCAL-00001" summary="Numpy Practice Code Files">
-      <created>1540209607789</created>
+    <task id="LOCAL-00001" summary="Basic Object Types">
+      <created>1539538536430</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1540209607789</updated>
+      <updated>1539538536431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic Object Types">
+      <created>1539538596811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539538596811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MasteringMachineLearningWithPythonInSixSteps - Chapter - 1">
+      <created>1539707333526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539707333526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MasteringMachineLearningWithPythonInSixSteps - Chapter - 1">
+      <created>1540222685100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540222685100</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1540222803730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540222803730</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1540222843032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540222843032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1540223113700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540223113700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49936628" weight="0.39083558" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49936628" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5006337" side_tool="true" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.49894625" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49894625" weight="0.32827735" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.49789253" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49947312" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Numpy Practice Code Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numpy Practice Code Files" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Basic Object Types" />
+    <MESSAGE value="MasteringMachineLearningWithPythonInSixSteps - Chapter - 1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/ObjectTypes.py">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Python.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/List/NestedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="219">
+          <caret line="85" column="37" lean-forward="true" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/HelloWorld.py">
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-1-Correctidentation.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/ListOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-3-BasicObjectTypes.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/1-HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/2-NumpySizeVsListSize.py">
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-2-IncorrectIndentation.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-4-Comments.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-5-MultilineStatement.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-6-MultiStatement.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/Mastering Machine Learning with Python in Six Steps/Chapter1/1-7-ArthimeticOperator.py" />
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-8-CompariionRationalOperator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/3-ComputationTimeByListVsNumpy.py">
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-9-AignmentOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-7-ArthimeticOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-12-MemberhipOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-11-LogicalOperator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/4-NumpyOperations.py">
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-10-Bitwise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/1-FirstNumpyProgram.py">
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-14-ControlStructure_If.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/6-numpyLinespace.py">
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-15-ControlStructure_If_Else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-16-ControlStructure_Nested_If_Else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-17-ControlStructure_For_Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-18-ControlStructure_While.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/5-numpySlicing.py">
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-19-ControlStructure_While_Else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-20-AccessingList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-21-AddingNewValuesToList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/filecmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-1-Correctidentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-22-UpdatingExistingList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-23-DeletingListElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-13-IdentityOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-24-BasicListOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-6-MultiStatement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-25-CreateTupple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-26-AccessingTupple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-27-DeletingTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codestyles/Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Numpy/7-numpyArrayArithematicOperation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-28-BasicOperationTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringMachineLearningWithPythonInSixSteps/Chapter1/1-3-BasicObjectTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/2-DataTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="80" lean-forward="true" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/StringOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>

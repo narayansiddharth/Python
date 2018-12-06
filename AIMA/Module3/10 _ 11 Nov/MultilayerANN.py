@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import neurolab as nl
 import numpy as np
-import plotNN
+
+# import plotNN
 
 # Generate some training data
 min_val = -10

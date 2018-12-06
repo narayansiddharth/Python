@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from sklearn import cross_validation
+# from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
 
 # from utilities import visualize_classifier

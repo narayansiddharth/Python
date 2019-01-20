@@ -41,7 +41,7 @@ for name, est in estimators:
     ax.set_title(titles[fignum - 1])
     ax.dist = 12
     fignum = fignum + 1
-
+'''
 # Plot the ground truth
 fig = plt.figure(fignum, figsize=(4, 3))
 ax = Axes3D(fig, rect=[0, 0, .95, 1], elev=48, azim=134)
@@ -66,6 +66,6 @@ ax.set_ylabel('Sepal length')
 ax.set_zlabel('Petal length')
 ax.set_title('Ground Truth')
 ax.dist = 12
-
+'''
 # fig.show()
 plt.show()
